@@ -25,7 +25,7 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(https://pbs.twimg.com/media/EwMsJ2EU8AgaPRd?format=jpg&name=small);
   background-size: cover;
-  color: white;
+  color: #000000;
   text-align: center;
 }
 
@@ -51,7 +51,7 @@ a {
 }
 
 .signup {
-  background-color: #239b76;
+  background-color: #000000;
 }
 
 .facebook {
