@@ -25,7 +25,7 @@ a {
   padding: 300px 0 100px 0;
   background-image: url(https://pbs.twimg.com/media/EwMsJ2EU8AgaPRd?format=jpg&name=small);
   background-size: cover;
-  color: #bb5428cc;
+  color: #4f3f31;
   text-align: center;
 }
 
@@ -135,7 +135,7 @@ header {
 .heading {
   padding-top: 80px;
   padding-bottom: 50px;
-  color: 	#d86c12;
+  color: #4f3f31;
 }
 
 .heading h2 {
