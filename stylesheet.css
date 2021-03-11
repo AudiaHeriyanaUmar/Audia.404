@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  font-family: "Times New Roman";
+  font-family: "Lucida Grande";
 }
 
 a {
@@ -23,9 +23,9 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://th.bing.com/th/id/OIP.kUmJrBajVFToUtrfxPiTLAHaF9?w=218&h=180&c=7&o=5&dpr=1.25&pid=1.7);
+  background-image: url(https://th.bing.com/th/id/OIP.VAlOCBP049lJXA74mwIs3gHaEK?w=312&h=180&c=7&o=5&dpr=1.25&pid=1.7);
   background-size: cover;
-  color: #e14111;
+  color: white;
   text-align: center;
 }
 
@@ -154,7 +154,7 @@ header {
 .lesson-icon p {
   position: relative;
   width: 100%;
-  color: #000000;
+  color: white;
 }
 
 .text-contents {
