@@ -22,10 +22,10 @@ a {
 }
 
 .top-wrapper {
-  padding: 180px 0 100px 0;
+  padding: 300px 0 100px 0;
   background-image: url(https://pbs.twimg.com/media/EwMsJ2EU8AgaPRd?format=jpg&name=small);
   background-size: cover;
-  color: #000000;
+  color: #bb5428cc;
   text-align: center;
 }
 
@@ -116,7 +116,7 @@ header {
   background-color: rgba(255, 255, 255, 0.3);
 }
 
-.menu-icon{
+.menu-icon {
   color: white;
   float: right;
   font-size: 25px;
@@ -128,7 +128,7 @@ header {
   padding-bottom: 120px;
   padding-left: 5%;
   padding-right: 5%;
-  background-color: #1b2f10c2;
+  background-color: #9a563acc;
   text-align: center;
 }
 
@@ -154,7 +154,7 @@ header {
 .lesson-icon p {
   position: relative;
   width: 100%;
-  color: white;
+  color: #000000;
 }
 
 .text-contents {
@@ -162,7 +162,7 @@ header {
   display: inline-block;
   margin-top: 15px;
   font-size: 15px;
-  color: #b3aeb5;
+  color: #38240c;
 }
 
 .heading h3 {
