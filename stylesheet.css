@@ -130,7 +130,7 @@ header {
   padding-bottom: 120px;
   padding-left: 5%;
   padding-right: 5%;
-  background-color: #9a563acc;
+  background-color: #e97545;
   text-align: center;
 }
 
@@ -195,7 +195,7 @@ footer img {
 }
 
 footer p {
-  color: #bb5428cc;
+  color: #000000cc;
   font-size: 12px;
 }
 
